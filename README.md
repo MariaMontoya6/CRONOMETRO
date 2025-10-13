@@ -41,3 +41,5 @@ Additionally, the project includes:
 if you have never created a testbench before, you can also find tutorials on how to download and use the required programs
 
 * [Programs for testbench](./Testbench/Install%20the%20program.md)
+
+*Thanks to Professor Franco for still believing in his students and in the value of learning.*
