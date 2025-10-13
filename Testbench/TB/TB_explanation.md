@@ -36,7 +36,7 @@ The reset must stop the entire program; that’s why it has the highest priority
 
 To allow the stopwatch to run, a tick signal was defined to trigger every 10 ms. It can be seen here.
 
-<img src="../../Documentation/IMAGES/TICK_10ms.png" alt="DE0-CV" width="1000">
+<img src="../../Documentation/IMAGES/TICK_10mS.png" alt="DE0-CV" width="1000">
 
 *The Tick of 10 mS*
 
